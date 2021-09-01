@@ -46,14 +46,15 @@ body{
 
 .fs-1{
 font-style: oblique;
-color:tomato;
+color:rgb(255, 99, 71);
 font-weight:bold;
 font-family: cursive;
 }
 
 h4{
-    color: sienna;
+    color:rgb(233, 75, 27);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
 }
 
 .nav-item{
