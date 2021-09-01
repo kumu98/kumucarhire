@@ -20,9 +20,42 @@
 }
 section{
     margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.card > img{
+    border-radius: 10%;
 }
 
 .card{
-    display: flex;
-    flex-wrap: wrap;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    
+}
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style:italic;
+    color:tomato;
+}
+
+body{
+    background-color:silver;
+    font-family: cursive;
+    font-size: 15px;
+}
+
+.fs-1{
+font-style: oblique;
+color:tomato;
+font-weight:bold;
+font-family: cursive;
+}
+
+h4{
+    color: sienna;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav-item{
+    font-size: 30px;
 }
