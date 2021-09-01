@@ -18,3 +18,11 @@
     width: 100%;
     position: absolute;
 }
+section{
+    margin-top: 5px;
+}
+
+.card{
+    display: flex;
+    flex-wrap: wrap;
+}
